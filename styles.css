@@ -1,0 +1,20 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+.table-user {
+    background-color: brown;
+    border: 1px solid silver;
+    border-collapse: collapse;
+    width: 500px;
+}
+.table-user  th, .table-user td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+
+}
